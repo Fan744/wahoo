@@ -1,0 +1,24 @@
+{
+  "users": [],
+  "tasks": [
+    {
+      "id": "t1",
+      "title": "Share referral on WhatsApp",
+      "reward": 10,
+      "desc": "Share your referral link. Earn \u20b910 per successful signup."
+    },
+    {
+      "id": "t2",
+      "title": "Invite 3 friends",
+      "reward": 50,
+      "desc": "Invite 3 friends who sign up and verify email."
+    },
+    {
+      "id": "t3",
+      "title": "Complete profile",
+      "reward": 5,
+      "desc": "Fill profile fields to earn \u20b95."
+    }
+  ],
+  "withdrawals": []
+}
